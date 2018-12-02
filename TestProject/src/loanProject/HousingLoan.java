@@ -1,6 +1,6 @@
 package loanProject;
 
-public class HousingLoan {
+public class HousingLoan  {
 
 	private int customerId;
 	private int duration;

@@ -1,6 +1,6 @@
 package loanProject;
 
-public class LoanTest {
+public class LoanTest  {
 
 	public static void main(String[] args) {
 		Address add=new Address();

@@ -1,6 +1,6 @@
 package loanProject;
 
-public class PropertyDetails {
+public class PropertyDetails  {
 
 	private String propertyHolderName;
 	protected Address address;
